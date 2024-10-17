@@ -94,6 +94,4 @@ For a step-by-step installation guide, watch the video below:
 ## Feedback
 
 We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us via  
-![Email](https://img.icons8.com/color/24/000000/email.png) [Email](mailto:xengshi@duck.com)  or  ![Telegram](https://img.icons8.com/color/24/000000/telegram-app.png) [Telegram](https://t.me/xengshi).
-
-
+![Gform](https://img.icons8.com/color/24/000000/email.png) [gform](https://forms.gle/b8EJUxkWiUNdfjLc6) 
